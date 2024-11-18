@@ -1,0 +1,25 @@
+{
+  "name": "food-delivery-app",
+  "version": "1.0.0",
+  "description": "this is food delivery app",
+  "scripts": {
+    "start": "npx parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "rabhs-MacBook-Air ~ % "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ngx-toastr": "^19.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.0",
+    "process": "^0.11.10",
+    "toastr": "^2.1.4"
+  }
+}
